@@ -6,10 +6,10 @@ instaloader==4.14
 numpy==1.25.2
 opencv_python_headless==4.10.0.84
 pandas==2.2.3
-Requests==2.32.3
+requests==2.32.3
 catboost==1.2.7
 scikit-learn==1.5.2
-request
+os
 jsonify
 pickle
 cv2
