@@ -8,8 +8,7 @@ opencv_python_headless==4.10.0.84
 pandas==2.2.3
 Requests==2.32.3
 catboost==1.2.7
-scikit-learn==1.5.2
-os
+scikit-learn
 request
 jsonify
 pickle
