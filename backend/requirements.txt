@@ -9,7 +9,6 @@ pandas==2.2.3
 requests==2.32.3
 catboost==1.2.7
 scikit-learn==1.5.2
-os
 jsonify
 pickle
 cv2
